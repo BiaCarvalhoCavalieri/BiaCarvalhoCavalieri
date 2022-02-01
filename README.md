@@ -15,7 +15,7 @@ Para me encontrar:
 
 
 
-> Frase  - Autor à ver
+> "Minha compreensão só pode ser uma fração infinitesimal de tudo que eu quero entender"  - Ada Lovelace
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaCarvalhoCavalieri&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
