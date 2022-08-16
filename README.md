@@ -1,6 +1,7 @@
 # Beatriz Carvalho Cavalieri	:hugs:
 
-  Meu nome é Beatriz Carvalho Cavalieri, atualmente sou trainee de Front-end na empresa @b8one.
+  Meu nome é Beatriz Carvalho Cavalieri, atualmente sou trainee de Front-end na empresa [B8One](https://www.linkedin.com/company/b8one/).
+
 
 Para me encontrar:
 
