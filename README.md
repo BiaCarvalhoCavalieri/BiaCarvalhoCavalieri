@@ -17,6 +17,4 @@ Para me encontrar:
 
 
 > "Minha compreensão só pode ser uma fração infinitesimal de tudo que eu quero entender"  - Ada Lovelace
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaCarvalhoCavalieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
