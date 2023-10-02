@@ -1,22 +1,27 @@
-# Beatriz Carvalho Cavalieri	:hugs:
+# :sparkles: Seja bem-vindo(a)! :vulcan_salute:
 
-  Meu nome é Beatriz Carvalho Cavalieri, atualmente sou trainee de Front-end na empresa [B8One](https://www.linkedin.com/company/b8one/).
+![](https://komarev.com/ghpvc/?username=BiaCarvalhoCavalieri&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=BiaCarvalhoCavalieri&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/BiaCarvalhoCavalieri?label=Follow&style=social)
 
+- :computer: Desenvolvedora Frontend +1XP
+- :open_book: Atuo com ecommerce na B8one
+- :mortar_board: Formada em Técnico em Informática - ETEC
 
-Para me encontrar:
+### Redes Sociais
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bia_carvalho3003/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatriz-carvalho-cavalieri/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bia3003carvalho@gmail.com)](mailto:bia3003carvalho@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-carvalho-cavalieri)](https://www.linkedin.com/in/beatriz-carvalho-cavalieri)
+### Linguagens
 
-:computer: Hard Skills:
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Bibliotecas e afins
 
-
-
-> "Minha compreensão só pode ser uma fração infinitesimal de tudo que eu quero entender"  - Ada Lovelace
-
+![React](https://img.shields.io/badge/React-282C34?logo=react)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?logo=graphql)
+![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
+![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
