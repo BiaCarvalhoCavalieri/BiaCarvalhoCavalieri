@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=BiaCarvalhoCavalieri&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=BiaCarvalhoCavalieri&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/BiaCarvalhoCavalieri?label=Follow&style=social)
 
-- :computer: Desenvolvedora Frontend +2XP
+- :computer: Desenvolvedora Frontend +3XP
 - :open_book: Atuo com ecommerce na B8one
 - :mortar_board: Formada em Técnico em Informática - ETEC
 
